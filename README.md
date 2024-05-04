@@ -5,7 +5,9 @@ Welcome to your new dbt project!
 Try running the following commands:
 - dbt run
 - dbt test
-![Uploading image.png…]()
+
+<img width="1194" alt="image" src="https://github.com/kislayer/Airbnb-dbt-Data-Pipeline/assets/47941288/f84be188-e94d-4f04-a3cd-c12dcc7b7766">
+
 
 
 ### Resources:
