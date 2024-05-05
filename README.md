@@ -1,10 +1,6 @@
-Welcome to your new dbt project!
+dbt PROJECT by Kisalaya
 
-### Using the starter project
 
-Try running the following commands:
-- dbt run
-- dbt test
 
 <img width="1194" alt="image" src="https://github.com/kislayer/Airbnb-dbt-Data-Pipeline/assets/47941288/f84be188-e94d-4f04-a3cd-c12dcc7b7766">
 
