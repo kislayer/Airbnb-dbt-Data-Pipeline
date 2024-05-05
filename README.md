@@ -12,7 +12,8 @@ Try running the following commands:
 
 
 
-![Uploading image.png…]()
+![image](https://github.com/kislayer/Airbnb-dbt-Data-Pipeline/assets/47941288/cc31258e-f03d-4e51-aa74-8ca37cadc5a7)
+
 
 
 
